@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Alexandre Azevedo
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexandreAzevedo1&count_bg=%2379C0FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false" alt="Contador de Visitas">
+  <img src="https://view-counter.api.fnkr.net/badge.svg?label=Visitas&color=blue&style=for-the-badge" alt="Contador de Visitas">
 </p>
 
 ### 💻 Sobre Mim
@@ -25,4 +25,30 @@ Desenvolvedor focado em soluções modernas e redes de computadores. Atualmente 
 **Mobile & Design**
 <p align="left">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreAzevedo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAzevedo1&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+<p align="left">
+  <a href="mailto:xxazevedoxx2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/5553999095990"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreAzevedo1&theme=tokyonight" alt="GitHub Streak" />
+</p>
